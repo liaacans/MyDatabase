@@ -1,1 +1,18 @@
-[]
+{
+  "name": "DB.json",
+  "path": "DB.json",
+  "sha": "fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+  "size": 3,
+  "url": "https://api.github.com/repos/liaacans/MyDatabase/contents/DB.json?ref=main",
+  "html_url": "https://github.com/liaacans/MyDatabase/blob/main/DB.json",
+  "git_url": "https://api.github.com/repos/liaacans/MyDatabase/git/blobs/fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+  "download_url": "https://raw.githubusercontent.com/liaacans/MyDatabase/main/DB.json",
+  "type": "file",
+  "content": "W10K\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/liaacans/MyDatabase/contents/DB.json?ref=main",
+    "git": "https://api.github.com/repos/liaacans/MyDatabase/git/blobs/fe51488c7066f6687ef680d6bfaa4f7768ef205c",
+    "html": "https://github.com/liaacans/MyDatabase/blob/main/DB.json"
+  }
+}
